@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "ConfigHeader.h"
 
 @interface AceCuteView : UIView
 
